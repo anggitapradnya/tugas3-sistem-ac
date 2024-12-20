@@ -9,7 +9,7 @@
 <body>
 
     <div class="container">
-        <h2>Sistem Pemantauan Status AC</h2>
+        <h2>Sistem Pemantauan Status AC 1</h2>
 
         <?php
         // Konfigurasi database
